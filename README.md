@@ -6,7 +6,7 @@ Getter is a Rails RESTful API backend application that serves to create and main
 
 To install, simply fork and clone this repository, and run bundle install. This application will also require that you fork, clone, and install the front-end of the application, which you can do so by navigating to:
 
-https://github.com/cristalcodes/pin-it-frontend-
+https://github.com/merrycrismoz/getter-react
 
 ## Built With
 * [Ruby on Rails]- web application framework
